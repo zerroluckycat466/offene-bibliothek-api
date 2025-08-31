@@ -1,0 +1,13 @@
+{
+  "name": "offene-bibliothek-api",
+  "version": "1.0.0",
+  "description": "Eine RESTful API zur Verwaltung von offenen Bibliotheken",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  }
+}
