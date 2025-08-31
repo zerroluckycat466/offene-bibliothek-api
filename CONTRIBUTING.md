@@ -1,10 +1,10 @@
-# Mitwirkende
+# Contributors
 
-Wir freuen uns über Beiträge! Bitte folgen Sie diesen Schritten, um einen Beitrag zu leisten:
+We welcome contributions! Please follow these steps to make a contribution:
 
-1. Fork des Repositories machen
-2. Ein Feature oder einen Fix implementieren
-3. Tests hinzufügen (falls zutreffend)
-4. Pull-Request erstellen
+1. Fork the repository
+2. Implement a feature or a fix
+3. Add tests (if applicable)
+4. Create a pull request
 
-Vielen Dank für Ihre Unterstützung!
+Thank you for your support!
